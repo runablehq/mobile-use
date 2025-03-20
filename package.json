@@ -14,6 +14,7 @@
   "description": "Use AI to control your mobile",
   "dependencies": {
     "@ai-sdk/anthropic": "^1.1.17",
+    "@ai-sdk/azure": "^1.2.7",
     "@ai-sdk/google": "^1.1.25",
     "@ai-sdk/openai": "^1.2.5",
     "@openrouter/ai-sdk-provider": "^0.4.3",
