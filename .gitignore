@@ -3,3 +3,4 @@ dist
 temp
 .env.local
 test
+.env
