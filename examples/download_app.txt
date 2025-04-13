@@ -1,0 +1,5 @@
+1. Go to playstore
+2. Search for 'fampay'
+3. Go to the app page
+4. Install the app
+5. Wait for it to install

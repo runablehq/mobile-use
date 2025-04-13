@@ -1,0 +1,7 @@
+1. Open porter app
+2. Book a 2 wheeler 
+3. Select pickup location as '20th a cross road, bangalore'
+4. Select drop location as 'asha tiffins, bangalore'
+5. Select other things as defult
+6. Payment mode as 'cash'
+7. After booking, confirm the sending a message on whatsapp to 'saksham boi'.
